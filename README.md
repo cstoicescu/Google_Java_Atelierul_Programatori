@@ -1,5 +1,9 @@
 # java-training
 
+## About  
+More about the [course](https://events.withgoogle.com/atelierul-digital-pentru-programatori/)  
+During 10 weeks period,  i was part of a class of 25 students who participated in Java training sessions sponsored by Google.  
+
 # 1 basics
 	- code study
 		- 1.1 hello world
